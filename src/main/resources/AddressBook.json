@@ -1,0 +1,26 @@
+{
+  "contact": [
+    {
+      "id": 1,
+      "firstname": "Madhu",
+      "lastname": "Sudhan",
+      "address": "Kondapur",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip": 500032,
+      "phonenumber": 8247473242,
+      "email": "maddy@gmail.com"
+    },
+    {
+      "id": 2,
+      "firstname": "Vikas",
+      "lastname": "Kumar",
+      "address": "yousufguda",
+      "city": "Hyderabad",
+      "state": "Vijayawada",
+      "zip": 500084,
+      "phonenumber": 9502162168,
+      "email": "vikas@gmail.com"
+    }
+  ]
+}
